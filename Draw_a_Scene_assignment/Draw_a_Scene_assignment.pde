@@ -56,4 +56,8 @@ void draw() {
   
   fill(black);
   rect(394.5, 110, 6, 20);
+  
+  String a = "Ssssssss";
+  fill(0);
+  text(a, 445, 60, 85, 80);
 }
